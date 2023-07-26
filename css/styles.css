@@ -349,6 +349,11 @@ button {
     letter-spacing: 0.32px;
 }
 
+.portfolio_thumb {
+    padding: 32px 16px;
+    border: 1px solid  #E7E9FC;
+    border-top: 0;
+}
 
 .logo_white_span {
     color: var(--logo-white-color);
