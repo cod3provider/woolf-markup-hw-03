@@ -339,6 +339,7 @@ button {
 }
 
 .portfolio_card_title {
+    margin-bottom: 8px;
     font-size: var(--portfolio-card-title-font-size);
     color: var(--portfolio-card-title-color);
     font-weight: 500;
