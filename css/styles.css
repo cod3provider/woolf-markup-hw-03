@@ -214,9 +214,9 @@ button {
     padding-bottom: var(--section-padding-bottom);
 }
 
-/*.section_no_padding_bottom {*/
-/*    padding-bottom: 0;*/
-/*}*/
+.section_no_padding_top {
+    padding-top: 0;
+}
 
 .section_title {
     margin-bottom: 72px;
